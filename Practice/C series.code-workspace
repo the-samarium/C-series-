@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../TYPESCRIPT"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TYPESCRIPT",
+		"files.associations": {
+			"*.ejs": "html",
+			"U7B.C": "cpp"
+		}
+	}
+}
